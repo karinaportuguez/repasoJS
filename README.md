@@ -9,6 +9,9 @@ Este es un pequeño repaso que hice para el curso de **React - La Guía Completa
 - Objetos
 - Destructuracion de objetos
 - Prototype
+- Object Literals
+- Metodos en Funciones
+- Arreglos, .map y objet keys
 
 ## Màs informacion sobre el curso 😉
 
@@ -19,16 +22,17 @@ Este es un pequeño repaso que hice para el curso de **React - La Guía Completa
 **Plataforma:** [Udemy](https://www.udemy.com/)
 
 
-## Apuntes
-
-Proximamente
-
-
-
 ## Estado del curso
 
 
 En **proseso** de ser terminado
 
-> **Note:** (Clase 21)
+> **Note:** (Clase 26 - Arreglos, .map y Object Keys)
+
+
+
+## Apuntes
+
+Proximamente
+
 
