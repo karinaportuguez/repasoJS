@@ -16,7 +16,7 @@ Este es un pequeño repaso que hice para el curso de **React - La Guía Completa
 
 **Instruido por:**  Juan Pablo De la Torre Valdez
 
-**Plataforma:** [Udemy](https://www.udemy.com/
+**Plataforma:** [Udemy](https://www.udemy.com/)
 
 
 ## Apuntes
