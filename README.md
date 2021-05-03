@@ -14,6 +14,7 @@ Este es un pequeño repaso que hice para el curso de **React - La Guía Completa
 - Arreglos, .map y objet keys
 - Spread Operator
 - Metodos en Arreglos
+- Promises
 
 ## Màs informacion sobre el curso 😉
 
@@ -29,7 +30,7 @@ Este es un pequeño repaso que hice para el curso de **React - La Guía Completa
 
 En **proseso** de ser terminado
 
-> 📝**Note:** (Clase 26 - Promises)
+> 📝**Note:** (Clase 27 - Promises con Ajax)
 
 
 
