@@ -27,7 +27,7 @@ Este es un pequeño repaso que hice para el curso de **React - La Guía Completa
 
 En **proseso** de ser terminado
 
-> **Note:** (Clase 26 - Arreglos, .map y Object Keys)
+> 📝**Note:** (Clase 26 - Arreglos, .map y Object Keys)
 
 
 
