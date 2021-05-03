@@ -15,6 +15,14 @@ Este es un pequeño repaso que hice para el curso de **React - La Guía Completa
 - Spread Operator
 - Metodos en Arreglos
 - Promises
+- Promises con Ajax
+- Programación Orientada a Objetos
+- PO Herencia
+- ES6
+- Funciones
+- Clases
+
+
 
 ## Màs informacion sobre el curso 😉
 
@@ -30,7 +38,7 @@ Este es un pequeño repaso que hice para el curso de **React - La Guía Completa
 
 En **proseso** de ser terminado
 
-> 📝**Note:** (Clase 27 - Promises con Ajax)
+> 📝**Note:** (Clase 29 - Programacion orientada a objetos)
 
 
 
