@@ -38,7 +38,7 @@ Este es un pequeño repaso que hice para el curso de **React - La Guía Completa
 
 En **proseso** de ser terminado
 
-> 📝**Note:** (Clase 29 - Programacion orientada a objetos)
+> 📝**Note:** (Clase 30 - Programacion orientada a objetos - Herencia de clases)
 
 
 
